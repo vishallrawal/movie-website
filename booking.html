@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Book Your Seat - MovieBox Office</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header class="header">
+        <nav class="navbar">
+            <a href="1.html" class="logo">
+                <div class="logo-icon"></div>
+                <span>MovieBox Office</span>
+            </a>
+            <div class="auth-buttons">
+                <a href="movies.html" class="btn btn-secondary">Change Movie</a>
+            </div>
+        </nav>
+    </header>
+
+    <main class="container booking-page">
+        <h1>Confirm Your Booking</h1>
+        <div class="booking-layout">
+
+            <div class="seat-selection">
+                <h2><span id="booking-movie-title">Movie Title</span></h2>
+                <div class="screen-ui">SCREEN</div>
+
+                <div class="time-selection">
+                    <h2>Select a Time</h2>
+                    <div class="movie-timings">
+                        <button class="timing-btn" data-time="10:00 AM">10:00 AM</button>
+                        <button class="timing-btn" data-time="02:30 PM">02:30 PM</button>
+                        <button class="timing-btn" data-time="06:00 PM">06:00 PM</button>
+                        <button class="timing-btn" data-time="09:30 PM">09:30 PM</button>
+                    </div>
+                </div>
+
+                <div class="seat-grid" id="seat-grid">
+                </div>
+                
+                <div class="seat-legend">
+                    <div><span class="seat available"></span> Available</div>
+                    <div><span class="seat selected"></span> Selected</div>
+                    <div><span class="seat booked"></span> Booked</div>
+                </div>
+            </div>
+
+            <div class="booking-form">
+                <h2>Enter Your Details</h2>
+                <form id="booking-form-details">
+                    <div class="form-group">
+                        <label for="name">Full Name</label>
+                        <input type="text" id="name" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="phone">Phone Number</label>
+                        <input type="tel" id="phone" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="email">Email ID</label>
+                        <input type="email" id="email" required>
+                    </div>
+                    <button type="submit" class="btn btn-primary btn-lg">Confirm Booking</button>
+                </form>
+            </div>
+        </div>
+    </main>
+
+    <script src="script.js"></script>
+</body>
+</html>
