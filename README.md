@@ -8,8 +8,6 @@ https://your-site-name.netlify.app
 
 ## 🛠 Tech Stack
 
-- Astro
-- TypeScript
 - HTML
 - CSS
 - JavaScript
