@@ -1,22 +1,36 @@
-# 🎬 FlixCart Website
+# 🎬 Movie Ticketing Website
 
-A modern e-commerce website built with Astro.
+A modern and responsive e-commerce website built using HTML, CSS, and JavaScript.
 
 ## 🚀 Live Demo
 
-https://your-site-name.netlify.app
+https://your-netlify-link.netlify.app
 
-## 🛠 Tech Stack
+## ✨ Features
 
-- HTML
-- CSS
-- JavaScript
+* Responsive Design
+* Product Catalog
+* Product Details
+* Shopping Cart
+* Search Functionality
+* Modern UI
+* Fast Performance
 
-## Installation
+## 🛠️ Technologies Used
+
+* HTML5
+* CSS3
+* JavaScript
+
+## 📦 Installation
 
 ```bash
 git clone https://github.com/vishallrawal/FlixCart-Website.git
 cd FlixCart-Website
-npm install
-npm run dev
 ```
+
+Open `index.html` in your browser or run it using a local development server.
+
+## 👨‍💻 Author
+
+**Vishal Rawal**
