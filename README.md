@@ -1,8 +1,10 @@
 # 🎬 MovieBox Office | Premium Movie Ticket Booking Simulator
 
 <div align="center">
-
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-MovieBox%20Active-e50914?style=for-the-badge&logo=githubpages&logoColor=white)](https://vishallrawal.github.io/movie-website/)
+   
+   [![Stack](https://img.shields.io/badge/Stack-HTML5%20%7C%20CSS3%20%7C%20JavaScript-success?style=for-the-badge)](https://github.com/vishallrawal/movie-website)
+[![Creator](https://img.shields.io/badge/Developer-Vishal%20Rawal-blue?style=for-the-badge)](https://github.com/vishallrawal)
+(https://vishallrawal.github.io/movie-website/)
 [![Stack](https://img.shields.io/badge/Stack-HTML5%20%7C%20CSS3%20%7C%20Vanilla%20JS-emerald-500?style=for-the-badge)](https://github.com/vishallrawal/movie-website)
 [![Creator](https://img.shields.io/badge/Developed%20By-Vishal%20Rawal-blue-600?style=for-the-badge)](https://github.com/vishallrawal)
 
