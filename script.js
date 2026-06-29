@@ -138,7 +138,7 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     }
 
-    if (currentPage === '1.html' || currentPage === '') {
+    if (currentPage === 'index.html' || currentPage === '1.html' || currentPage === '') {
         const signUpModal = document.getElementById('signup-modal');
         const signUpButton = document.getElementById('signup-btn');
         const signInModal = document.getElementById('signin-modal');
