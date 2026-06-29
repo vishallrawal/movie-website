@@ -4,7 +4,7 @@ A modern and responsive e-commerce website built using HTML, CSS, and JavaScript
 
 ## 🚀 Live Demo
 
-https://your-netlify-link.netlify.app
+ https://vishallrawal.github.io/movie-website/
 
 ## ✨ Features
 
